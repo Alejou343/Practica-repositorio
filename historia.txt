@@ -8,4 +8,4 @@ Que pereza ome
 
 Hoy es 16 de noviembre y vamos a seguir aprendiendo Git
 
-Aro, siza
+Aro, siza.
