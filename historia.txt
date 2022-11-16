@@ -5,3 +5,5 @@ Mido 1.80
 Ahora ando aprendiendo programación a ver si salgo de pobre ome
 
 Que pereza ome
+
+Hoy es 16 de noviembre y vamos a seguir aprendiendo Git
